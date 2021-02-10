@@ -1,6 +1,8 @@
 # flutter_calender
 
-A new Flutter application.
+aplikasi calender dengan berbagai janis tampilan
+
+![screenshot](calendar.jpg)
 
 ## Getting Started
 
